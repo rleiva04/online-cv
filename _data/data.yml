@@ -1,0 +1,121 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Rene Leiva
+    tagline: Tecnico en Informatica
+    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: reneleiva2004@gmail.com
+    phone: +504 968760099
+    linkedin: rleiva04
+    github: rleiva04
+    telegram: 'Rene Leiva' # add your nickname without '@' sign
+    freecodecamp: rleiva04
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf 
+        
+    #interests:
+    #  - item: Climbing
+    #    link:
+
+    #  - item: Snowboarding
+    #    link:
+
+    #  - item: Cooking
+    #    link:
+
+    
+    languages:
+      - idiom: English
+        level: Avanzado
+
+career-profile:
+    title: Perfil Profesional
+    summary: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+      labore et dolore magna aliqua. Magnis dis parturient montes nascetur ridiculus mus mauris vitae. 
+      Lacinia at quis risus sed vulputate odio ut enim. Mi tempus imperdiet nulla malesuada pellentesque. 
+      Feugiat nisl pretium fusce id velit ut tortor pretium. Suspendisse interdum consectetur libero id 
+      faucibus nisl tincidunt eget nullam. In nibh mauris cursus mattis molestie a iaculis.
+
+education:
+    - degree: Bachiller Tecnico Profesional en Informatica
+      university: Liceo Militar de Honduras
+      time: 2020-2022
+      details: |
+        Magnis dis parturient montes nascetur ridiculus mus mauris vitae. 
+        Lacinia at quis risus sed vulputate odio ut enim. Mi tempus imperdiet nulla malesuada pellentesque. 
+        Feugiat nisl pretium fusce id velit ut tortor pretium.
+
+experiences:
+    - role: Senior Software Engineer
+      time: Sep. 2022 - act.
+      company: LMH, Honduras
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Habilidades Tecnicas 
+
+    toolset:
+      - name: C/C++
+        level: 55%
+
+      - name: Javascript
+        level: 35%
+      
+      - name: SQL
+        level: 20%
+      
+      - name: Java
+        level: 18%
+      
+      - name: Python
+        level: 35%
+      
+      - name: Diseño Grafico
+        level: 70%
+      
+
+        
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
