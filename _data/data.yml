@@ -37,60 +37,63 @@ sidebar:
     languages:
       - idiom: English
         level: Avanzado
+      - idiom: Castellano
+        level: Avanzado
 
 career-profile:
     title: Perfil Profesional
     summary: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Magnis dis parturient montes nascetur ridiculus mus mauris vitae. 
-      Lacinia at quis risus sed vulputate odio ut enim. Mi tempus imperdiet nulla malesuada pellentesque. 
-      Feugiat nisl pretium fusce id velit ut tortor pretium. Suspendisse interdum consectetur libero id 
-      faucibus nisl tincidunt eget nullam. In nibh mauris cursus mattis molestie a iaculis.
+     Soy un tecnico informatico, tengo muchas habilidades practicas en diferente
+     area me adapto, siempre estoy dispuesto de mi tiempo para ofrecer mi servicio,
+     responsable, tengo bastante companerismo, liderazgo.
 
 education:
-    - degree: Bachiller Tecnico Profesional en Informatica
+- degree: Kinder
+      university: Florencia School
+      time: 2008-2010
+      
+- degree: Primaria
+      university: Florencia School
+      time: 2011-2016
+      
+- degree: Ciclo Comun
+      university: Florencia School
+      time: 2017-2019
+      
+- degree: Bachiller Tecnico Profesional en Informatica
       university: Liceo Militar de Honduras
       time: 2020-2022
-      details: |
-        Magnis dis parturient montes nascetur ridiculus mus mauris vitae. 
-        Lacinia at quis risus sed vulputate odio ut enim. Mi tempus imperdiet nulla malesuada pellentesque. 
-        Feugiat nisl pretium fusce id velit ut tortor pretium.
+     
 
 experiences:
-    - role: Senior Software Engineer
+    - role: Medio Avanzado Programador de Sistema
       time: Sep. 2022 - act.
-      company: LMH, Honduras
+      company: LACTHOSA, SPS
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    
+       Forme parte del area de soporte tecnico, 
+       area de oficina, chequeo de sistemas.
 
 publications:
-    title: Publications
+    title: Cursos
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Fundamentos de Marketing Digital
+        link: "https://learndigital.withgoogle.com/activate/validate-certificate-code"
+        authors: Google Activate
+        id: QYS WLE 53V
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Competencias Digitales para Profesionales
+        link: "https://learndigital.withgoogle.com/activate/validate-certificate-code"
+        authors: Google Activate
+        id: 3YZ TT6 3XY
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Introduccion al Desarrollo Web I
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Google Activate
+        id: 8QM 5TZ 7M8
 
 skills:
     title: Habilidades Tecnicas 
