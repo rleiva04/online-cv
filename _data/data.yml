@@ -49,20 +49,20 @@ career-profile:
 
 education:
     - degree: Kinder
-          university: Florencia School
-          time: 2008-2010
+      university: Florencia School
+      time: 2008-2010
 
     - degree: Primaria
-          university: Florencia School
-          time: 2011-2016
+      university: Florencia School
+      time: 2011-2016
 
     - degree: Ciclo Comun
-          university: Florencia School
-          time: 2017-2019
+      university: Florencia School
+      time: 2017-2019
 
     - degree: Bachiller Tecnico Profesional en Informatica
-          university: Liceo Militar de Honduras
-          time: 2020-2022
+      university: Liceo Militar de Honduras
+      time: 2020-2022
      
 
 experiences:
