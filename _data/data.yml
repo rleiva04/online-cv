@@ -48,21 +48,21 @@ career-profile:
      responsable, tengo bastante companerismo, liderazgo.
 
 education:
-        - degree: Kinder
-              university: Florencia School
-              time: 2008-2010
+    - degree: Kinder
+          university: Florencia School
+          time: 2008-2010
 
-        - degree: Primaria
-              university: Florencia School
-              time: 2011-2016
+    - degree: Primaria
+          university: Florencia School
+          time: 2011-2016
 
-        - degree: Ciclo Comun
-              university: Florencia School
-              time: 2017-2019
+    - degree: Ciclo Comun
+          university: Florencia School
+          time: 2017-2019
 
-        - degree: Bachiller Tecnico Profesional en Informatica
-              university: Liceo Militar de Honduras
-              time: 2020-2022
+    - degree: Bachiller Tecnico Profesional en Informatica
+          university: Liceo Militar de Honduras
+          time: 2020-2022
      
 
 experiences:
