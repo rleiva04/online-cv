@@ -35,10 +35,12 @@ sidebar:
 
     
     languages:
-      - idiom: English
+      - idiom: Ingles
         level: Avanzado
-      - idiom: Castellano
+      - idiom: Español
         level: Avanzado
+      - idiom: Francés
+        level: Basico
 
 career-profile:
     title: Perfil Profesional
@@ -66,19 +68,17 @@ education:
      
 
 experiences:
-    - role: Medio Avanzado Programador de Sistema
+    - role: Técnico en Informáica
       time: Sep. 2022 - act.
       company: LACTHOSA, SPS
       details: |
        Forme parte del area de soporte tecnico, 
-       area de oficina, chequeo de sistemas.
+       area de oficina, chequeo de equipo.
 
 publications:
     title: Cursos
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    
+      
     papers:
       - title: Fundamentos de Marketing Digital
         link: "https://learndigital.withgoogle.com/activate/validate-certificate-code"
